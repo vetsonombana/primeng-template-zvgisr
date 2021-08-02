@@ -1,0 +1,18 @@
+::ng-deep .ui-panelmenu .ui-widget {
+	background-color: #5F5F5F !important;
+	font-family: 'lato';
+
+}
+::ng-deep .ui-panelmenu .ui-panelmenu-header .ui-menuitem-text	{
+	color: white;
+		font-family: 'lato';
+
+};
+::ng-deep  .ui-menu-list	 {
+	font-family: 'lato';
+
+};
+
+::ng-deep .ui-panelmenu .ui-panelmenu-header.ui-state-active, .ui-panelmenu .ui-panelmenu-header.ui-state-active a{
+background-color: red !important;
+};
